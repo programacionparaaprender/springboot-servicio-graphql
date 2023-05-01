@@ -1,4 +1,4 @@
-package com.formacionbdi.springboot.app.productos.controllers;
+package com.formacionbdi.springboot.app.productos.graphql;
 
 import com.coxautodev.graphql.tools.GraphQLQueryResolver;
 import org.springframework.stereotype.Component;
