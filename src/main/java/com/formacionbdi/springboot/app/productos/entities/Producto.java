@@ -26,14 +26,11 @@ public class Producto implements Serializable{
 	private Long id;
 	
 	private String nombre;
-	private Double precio;
+	private float precio;
 	
-	@Column(name = "create_at")
-	@Temporal(TemporalType.DATE)
-	private Date createAt;
-	
-	@Transient
-	private Integer port;
+	//@Column(name = "create_at")
+	//@Temporal(TemporalType.DATE)
+	//private Date createAt;
 	
 	private static final long serialVersionUID = 1285454306356845809L;
 
