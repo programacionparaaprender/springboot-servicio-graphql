@@ -30,3 +30,6 @@ http://localhost:8300/graphiql?query=%7B%0A%20%20hello%2C%0A%20%20soma(a%3A1%2C%
     precio
   }
 }
+
+### 
+https://graphql.org/learn/schema/#type-system
